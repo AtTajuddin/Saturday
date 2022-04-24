@@ -1,4 +1,5 @@
 let h1 = document.querySelector('h1');
-const PI = Math.PI;
+const PI = 3.14I;
 
-const BRAM = 'something tex in his';
+const BRAM = 'naon weh something tex in his';
+h1.innerHTML = "ini yg baru"
