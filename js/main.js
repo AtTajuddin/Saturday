@@ -1,4 +1,4 @@
 let h1 = document.querySelector('h1');
-const PI = Math.PI;
+const PI = 3.14159;
 
-const BRAM = 'something tex in his';
+const BRAM = 'non something tex in his valui';
